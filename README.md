@@ -1,4 +1,4 @@
-<h1 align="center" >     👨‍💻 Achraf Chemchaq   || Anass Taoussi  👨‍💻</h1>
+<h1 align="center" >   👨‍💻 <a href="https://www.linkedin.com/in/achraf-chemchaq/">Achraf Chemchaq</a>   || Anass Taoussi  👨‍💻</h1>
 <p align="center"> 
   </p>
 
@@ -16,8 +16,19 @@
   
 ##  Multiplication Operation   
 <p align="center">  <img align="center" src="https://i.imgur.com/cLN2jnf.png" /> <p align="center">
-  
-  
+
+<h3 align="center" >   CODE </h3>
+<p align="center">  <img align="center" src="https://i.imgur.com/KeqZNn4.png" /> <p align="center">
+ 
+ ##  Decimal to Binary    
+<p align="center">  <img align="center" src="https://i.imgur.com/iEBFqh3.png" /> <p align="center">
+ <h3 align="center" >   CODE </h3>
+<p align="center">  <img align="center" src="https://i.imgur.com/T80ZeFf.png" /> <p align="center">
+
+##  Binary to Decimal   
+ <p align="center">  <img align="center" src="https://i.imgur.com/MSyMWV0.png" /> <p align="center">
+ <h3 align="center" >   CODE </h3>
+<p align="center">  <img align="center" src="https://i.imgur.com/MQwdT11.png" /> <p align="center">
   
   
   
